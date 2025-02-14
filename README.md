@@ -1,26 +1,42 @@
-<br clear="both">
-
 <h2 align="left">Hi 👋! My name is Alejandro Novellino and I'm a student of Software Engineering in the UCAB from Venezuela.</h2>
 
 ###
+# 💫 About Me
+###
+💜 I am a big car enthusiast, my favorite brands are Toyota, Nissan, Mazda and Ford, and my favorite models are the RX7, Fiesta, Celica, Corolla and the Model Z (please Nissan, let me drive a 400Z) 🚗💜💙 and of course at SE I am passionate about User Experience (UX), User Interface (UI) and Data Visualization design with Python and PowerBI.
 
-<br clear="both">
+🧁Web Development
+- Frontend ⚛️ Angular (v19), React
+- Backend  🪆 NestJS, Python (Django, FastAPI)
+- Learning 💙 Next.js
 
-<p align="left">Hi 👋! My name is Alejandro Novellino and I'm a student of Software Engineering in the UCAB from Venezuela.</p>
+🍧Data Science and Artificial Intelligence
+- Tools 🐍 Python, Numpy, Pandas, Matoploit, Seaborn and Scikit-learn
+- Data Visualization 📊 PowerBI
 
+###
+# 📊 GitHub Stats
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlejandroNovellino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="155" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=AlejandroNovellino&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="155" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlejandroNovellino&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="155" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlejandroNovellino&area=true&hide_border=true&theme=github-dark&radius=5&hide_title=true" height="155" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlejandroNovellino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=AlejandroNovellino&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlejandroNovellino&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="200" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlejandroNovellino&area=true&hide_border=true&theme=github-dark&radius=5&hide_title=true" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
+## 🔝 Top Contributed Repos
+###
 
-<img align="right" height="130" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
+  <a href="https://github-contributor-stats.vercel.app/api?username=AlejandroNovellino&limit=5&theme=dark&combine_all_yearly_contributions=true">
+    <img src="https://github-contributor-stats.vercel.app/api?username=AlejandroNovellino&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Random Quote"  />
+  </a>
+</div>
 
+###
+# 💻 Tech Stack
 ###
 
 <div align="left">
@@ -42,6 +58,8 @@
 </div>
 
 ###
+## 🌐 Socials
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/alejandro-novellino-70954817b/" target="_blank">
@@ -56,22 +74,11 @@
 </div>
 
 ###
-
-<img align="left" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-
+# 💜💙 Fun things I like
 ###
 
-<img align="left" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<img align="left" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<img align="left" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
+<img align="left" height="215" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="left" height="215" src="https://i.imgflip.com/65efzo.gif"  />
 
 <div align="right">
   <a href="https://open.spotify.com/user/31iqajozgc46bb6722qec3kk2syi">
@@ -87,7 +94,17 @@
 
 ###
 
+### ✍️ Random Dev Quote
+<div align="center">
+  <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote"  />
+  </a>
+</div>
 
+---
+[![](https://visitcount.itsvg.in/api?id=AlejandroNovellino&icon=0&color=9)](https://visitcount.itsvg.in)
+
+<!-- Proudly created part f it with GPRM ( https://gprm.itsvg.in ) and with Profile Readme GEnerator (https://profile-readme-generator.com/result)-->
 
 
 <!--
