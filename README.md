@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31iqajozgc46bb6722qec3kk2syi">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hey%20everyone!&fontSize=90&animation=fadeIn&fontAlignY=30&desc=I%20am%20Alejandro,%20welcome%20to%20my%20Github&descAlignY=51&descAlign=62"/>
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hello%20there!&fontSize=90&animation=fadeIn&fontAlignY=30&desc=Welcome%20to%20my%20Github&descAlignY=51&descAlign=62"/>
     </a>
   </picture>
 </div>
@@ -10,12 +10,13 @@
 ###
 # 💫 About Me
 ###
-💜 I am a big car enthusiast, my favorite brands are Toyota, Nissan, Mazda and Ford, and my favorite models are the RX7, Fiesta, Celica, Corolla and the Model Z (please Nissan, let me drive a 400Z) 🚗💜💙 and, of course, at SE I am passionate about User Experience (UX), User Interface (UI), data Science and Data Visualization design with Python and PowerBI.
+💜 My name is Alejandro, I am a big car enthusiast, my favorite brands are Toyota, Nissan, Mazda and Ford, and my favorite models are the RX7, Fiesta, Celica, Corolla and the Model Z (please Nissan, let me drive a 400Z) 🚗💜💙 and, of course, talking about software engineering I am passionate about Seb Development User Experience (UX), User Interface (UI), Data Science and Data Visualization with Python and PowerBI.
 
 🧁Web Development
-- Frontend ⚛️ Angular (v19), React
-- Backend  🪆 NestJS, Python (Django, FastAPI)
-- Learning 💙 Next.js
+- Frontend ⚛️ Angular (v18 and v19), React, Bootstrap, PrimeNG, HTML, CSS, SASS
+- Backend  🪆 NestJS, Python (Flask, FastAPI)
+- Achitectures 🏯 Micro Frontends, DDD (not my favorite thing to be honest(
+- Learning 💙 Next.js, Django, Micro Services, SASS in depth
 
 🍧Data Science and Artificial Intelligence
 - Tools 🐍 Python, Numpy, Pandas, Matplotlib, Seaborn and Scikit-learn
