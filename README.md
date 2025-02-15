@@ -92,7 +92,7 @@
   </picture>
 
   <picture>
-    <img src="https://cdna.artstation.com/p/assets/images/images/007/402/320/large/khyzyl-saleem-rex-finallow.jpg?1505899472" alt="car2" height="250" />
+    <img src="images/khyzyl-saleem-rex-finallow.jpg" alt="car2" height="250" />
   </picture>
 </div>
 <br>
@@ -110,11 +110,11 @@
 <!-- Cars -->
 <div align="center">
   <picture>
-    <img src="https://cdnb.artstation.com/p/assets/images/images/012/992/157/large/khyzyl-saleem-myrex-smooth-1088low.jpg?1537522320" alt="car2" height="250" />
+    <img src="images/khyzyl-saleem-myrex-smooth-1088low.jpg" alt="car2" height="250" />
   </picture>
 
   <picture>
-    <img src="https://cdna.artstation.com/p/assets/images/images/007/402/380/4k/khyzyl-saleem-hugo-rx7-finallogo.jpg?1505899843" alt="car2" height="250" />
+    <img src="images/khyzyl-saleem-hugo-rx7-finallogo.jpg" alt="car2" height="250" />
   </picture>
 </div>
 
