@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Alejandro Novellino and I'm a student of Software Engineering in the UCAB from Venezuela.</h2>
+<h2 align="left">Hi 👋! My name is Alejandro Novellino I'm Venezuelan and a student of Software Engineering in UCAB.</h2>
 
 ###
 # 💫 About Me
@@ -36,7 +36,7 @@
 </div>
 
 ###
-# 💻 Tech Stack
+# 💻 Tech Stack and social
 ###
 
 <div align="left">
@@ -57,8 +57,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
 </div>
 
-###
-## 🌐 Socials
 ###
 
 <div align="left">
