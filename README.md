@@ -1,3 +1,4 @@
+<!--
 <div align="center">
   <picture>
     <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31iqajozgc46bb6722qec3kk2syi">
@@ -6,6 +7,7 @@
   </picture>
 </div>
 <br>
+-->
 
 ###
 # 💫 About Me
@@ -88,11 +90,11 @@
 <!-- Cars -->
 <div align="center">
   <picture>
-    <img src="https://cdnb.artstation.com/p/assets/images/images/012/813/467/4k/khyzyl-saleem-350z-1054-2.jpg?1536660170" alt="car2" height="200" />
+    <img src="https://cdnb.artstation.com/p/assets/images/images/012/813/467/4k/khyzyl-saleem-350z-1054-2.jpg?1536660170" alt="car2" height="250" />
   </picture>
 
   <picture>
-    <img src="https://cdna.artstation.com/p/assets/images/images/007/402/320/large/khyzyl-saleem-rex-finallow.jpg?1505899472" alt="car2" height="200" />
+    <img src="https://cdna.artstation.com/p/assets/images/images/007/402/320/large/khyzyl-saleem-rex-finallow.jpg?1505899472" alt="car2" height="250" />
   </picture>
 </div>
 <br>
@@ -110,11 +112,11 @@
 <!-- Cars -->
 <div align="center">
   <picture>
-    <img src="https://cdnb.artstation.com/p/assets/images/images/012/992/157/large/khyzyl-saleem-myrex-smooth-1088low.jpg?1537522320" alt="car2" height="200" />
+    <img src="https://cdnb.artstation.com/p/assets/images/images/012/992/157/large/khyzyl-saleem-myrex-smooth-1088low.jpg?1537522320" alt="car2" height="250" />
   </picture>
 
   <picture>
-    <img src="https://cdna.artstation.com/p/assets/images/images/007/402/380/4k/khyzyl-saleem-hugo-rx7-finallogo.jpg?1505899843" alt="car2" height="200" />
+    <img src="https://cdna.artstation.com/p/assets/images/images/007/402/380/4k/khyzyl-saleem-hugo-rx7-finallogo.jpg?1505899843" alt="car2" height="250" />
   </picture>
 </div>
 
