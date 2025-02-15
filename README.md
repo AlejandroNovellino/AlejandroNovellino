@@ -129,7 +129,7 @@
 
 <!-- Snake -->
 <div align="center">
-  <i> All the images of the beautiful and amazing cars are from the Vehicle Designer <a href="https://www.artstation.com/khyzylsaleem"> Khyzyl SaleemPro </a> </i>
+  <i> All the images of the beautiful and amazing cars (including my profile picture) are from the Vehicle Designer <a href="https://www.artstation.com/khyzylsaleem"> Khyzyl SaleemPro </a> </i>
 </div>
 
 ###
