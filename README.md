@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31iqajozgc46bb6722qec3kk2syi">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hey%20everyone!&fontSize=90&animation=fadeIn&fontAlignY=30&desc=I%20am%20Alejandro,%20welcome%20to%20my%20Github&descAlignY=51&descAlign=62"/>
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hey%20everyone!&fontSize=90&animation=fadeIn&fontAlignY=30&desc=I%20am%20Alejandro,%20welcome%20to%20my%20Github&descAlignY=51&descAlign=62"/>
     </a>
   </picture>
 </div>
@@ -65,10 +65,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlejandroNovellino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=AlejandroNovellino&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlejandroNovellino&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="200" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlejandroNovellino&area=true&hide_border=true&theme=github-dark&radius=5&hide_title=true" height="200" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlejandroNovellino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="160" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=AlejandroNovellino&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="160" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlejandroNovellino&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="160" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlejandroNovellino&area=true&hide_border=true&theme=github-dark&radius=5&hide_title=true" height="160" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -88,11 +88,11 @@
 <!-- Cars -->
 <div align="center">
   <picture>
-    <img src="https://cdnb.artstation.com/p/assets/images/images/012/813/467/4k/khyzyl-saleem-350z-1054-2.jpg?1536660170" alt="car2" height="280" />
+    <img src="https://cdnb.artstation.com/p/assets/images/images/012/813/467/4k/khyzyl-saleem-350z-1054-2.jpg?1536660170" alt="car2" height="250" />
   </picture>
 
   <picture>
-    <img src="https://cdna.artstation.com/p/assets/images/images/007/402/320/large/khyzyl-saleem-rex-finallow.jpg?1505899472" alt="car2" height="280" />
+    <img src="https://cdna.artstation.com/p/assets/images/images/007/402/320/large/khyzyl-saleem-rex-finallow.jpg?1505899472" alt="car2" height="250" />
   </picture>
 </div>
 <br>
@@ -110,11 +110,11 @@
 <!-- Cars -->
 <div align="center">
   <picture>
-    <img src="https://cdnb.artstation.com/p/assets/images/images/012/992/157/large/khyzyl-saleem-myrex-smooth-1088low.jpg?1537522320" alt="car2" height="280" />
+    <img src="https://cdnb.artstation.com/p/assets/images/images/012/992/157/large/khyzyl-saleem-myrex-smooth-1088low.jpg?1537522320" alt="car2" height="250" />
   </picture>
 
   <picture>
-    <img src="https://cdna.artstation.com/p/assets/images/images/007/402/380/4k/khyzyl-saleem-hugo-rx7-finallogo.jpg?1505899843" alt="car2" height="280" />
+    <img src="https://cdna.artstation.com/p/assets/images/images/007/402/380/4k/khyzyl-saleem-hugo-rx7-finallogo.jpg?1505899843" alt="car2" height="250" />
   </picture>
 </div>
 
