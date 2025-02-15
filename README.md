@@ -1,4 +1,3 @@
-<!--
 <div align="center">
   <picture>
     <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31iqajozgc46bb6722qec3kk2syi">
@@ -7,7 +6,6 @@
   </picture>
 </div>
 <br>
--->
 
 ###
 # 💫 About Me
