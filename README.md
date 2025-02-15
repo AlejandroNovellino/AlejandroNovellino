@@ -88,7 +88,7 @@
 <!-- Cars -->
 <div align="center">
   <picture>
-    <img src="https://cdnb.artstation.com/p/assets/images/images/012/813/467/4k/khyzyl-saleem-350z-1054-2.jpg?1536660170" alt="car2" height="250" />
+    <img src="images/khyzyl-saleem-350z-1054-2.jpg" alt="car2" height="250" />
   </picture>
 
   <picture>
