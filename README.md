@@ -18,7 +18,7 @@
 - Learning 💙 Next.js
 
 🍧Data Science and Artificial Intelligence
-- Tools 🐍 Python, Numpy, Pandas, Matoploit, Seaborn and Scikit-learn
+- Tools 🐍 Python, Numpy, Pandas, Matplotlib, Seaborn and Scikit-learn
 - Data Visualization 📊 PowerBI
 
 ###
