@@ -1,9 +1,16 @@
-<h2 align="left">Hi 👋! My name is Alejandro Novellino I'm Venezuelan and a student of Software Engineering in UCAB.</h2>
+<div align="center">
+  <picture>
+    <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31iqajozgc46bb6722qec3kk2syi">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hey%20everyone!&fontSize=90&animation=fadeIn&fontAlignY=30&desc=I%20am%20Alejandro,%20welcome%20to%20my%20Github&descAlignY=51&descAlign=62"/>
+    </a>
+  </picture>
+</div>
+<br>
 
 ###
 # 💫 About Me
 ###
-💜 I am a big car enthusiast, my favorite brands are Toyota, Nissan, Mazda and Ford, and my favorite models are the RX7, Fiesta, Celica, Corolla and the Model Z (please Nissan, let me drive a 400Z) 🚗💜💙 and of course at SE I am passionate about User Experience (UX), User Interface (UI) and Data Visualization design with Python and PowerBI.
+💜 I am a big car enthusiast, my favorite brands are Toyota, Nissan, Mazda and Ford, and my favorite models are the RX7, Fiesta, Celica, Corolla and the Model Z (please Nissan, let me drive a 400Z) 🚗💜💙 and, of course, at SE I am passionate about User Experience (UX), User Interface (UI), data Science and Data Visualization design with Python and PowerBI.
 
 🧁Web Development
 - Frontend ⚛️ Angular (v19), React
@@ -75,20 +82,43 @@
 </div>
 
 ###
-## 💜💙 Fun things I like
+## 💜💙 Fun things I like and look cool
 ###
 
-<img align="left" height="215" width="auto" src="https://cdnb.artstation.com/p/assets/images/images/012/813/467/4k/khyzyl-saleem-350z-1054-2.jpg?1536660170"  />
-<img align="left" height="215" width="auto" src="https://cdna.artstation.com/p/assets/images/images/007/402/320/large/khyzyl-saleem-rex-finallow.jpg?1505899472"  />
+<!-- Cars -->
+<div align="center">
+  <picture>
+    <img src="https://cdnb.artstation.com/p/assets/images/images/012/813/467/4k/khyzyl-saleem-350z-1054-2.jpg?1536660170" alt="car2" height="280" />
+  </picture>
 
-<div align="right">
-  <a href="https://open.spotify.com/user/31iqajozgc46bb6722qec3kk2syi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31iqajozgc46bb6722qec3kk2syi&count=3" alt="Spotify recently played"  />
-  </a>
+  <picture>
+    <img src="https://cdna.artstation.com/p/assets/images/images/007/402/320/large/khyzyl-saleem-rex-finallow.jpg?1505899472" alt="car2" height="280" />
+  </picture>
+</div>
+<br>
+
+<!-- Spotify -->
+<div align="center">
+  <picture>
+    <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31iqajozgc46bb6722qec3kk2syi">
+      <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31iqajozgc46bb6722qec3kk2syi&limit=3&custom_title=Music%20I%20like" alt="Data Card for Spotify">
+    </a>
+  </picture>
+</div>
+<br>
+
+<!-- Cars -->
+<div align="center">
+  <picture>
+    <img src="https://cdnb.artstation.com/p/assets/images/images/012/992/157/large/khyzyl-saleem-myrex-smooth-1088low.jpg?1537522320" alt="car2" height="280" />
+  </picture>
+
+  <picture>
+    <img src="https://cdna.artstation.com/p/assets/images/images/007/402/380/4k/khyzyl-saleem-hugo-rx7-finallogo.jpg?1505899843" alt="car2" height="280" />
+  </picture>
 </div>
 
-###
-
+<!-- Snake -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlejandroNovellino/AlejandroNovellino/output/github-contribution-grid-snake-dark.svg">
@@ -97,9 +127,14 @@
   </picture>
 </div>
 
+<!-- Snake -->
+<div align="center">
+  <i> All the images of the beautiful and amazing cars are from the Vehicle Designer <a href="https://www.artstation.com/khyzylsaleem"> Khyzyl SaleemPro </a> </i>
+</div>
+
 ###
 
-### ✍️ Random Dev Quote
+### ✍️ A random developer quote, simply because ... why not?
 <div align="center">
   <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote"  />
