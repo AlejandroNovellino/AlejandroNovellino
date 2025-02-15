@@ -15,6 +15,45 @@
 - Data Visualization 📊 PowerBI
 
 ###
+## 💻 Tech Stack and social
+###
+
+<!-- Tech -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="35" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
+</div>
+
+<br>
+
+<!-- Social-->
+<div align="center">
+  <a href="https://www.linkedin.com/in/alejandro-novellino-70954817b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="49" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/28884943/a27-j779" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="49" height="35" alt="stackoverflow logo"  />
+  </a>
+  <a href="alnovellino07@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="49" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+
+###
 # 📊 GitHub Stats
 ###
 
@@ -36,47 +75,11 @@
 </div>
 
 ###
-# 💻 Tech Stack and social
+## 💜💙 Fun things I like
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="35" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/alejandro-novellino-70954817b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="49" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/28884943/a27-j779" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="49" height="35" alt="stackoverflow logo"  />
-  </a>
-  <a href="alnovellino07@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="49" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-# 💜💙 Fun things I like
-###
-
-<img align="left" height="215" src="https://i.imgflip.com/65efzo.gif"  />
-<img align="left" height="215" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="left" height="215" width="auto" src="https://cdnb.artstation.com/p/assets/images/images/012/813/467/4k/khyzyl-saleem-350z-1054-2.jpg?1536660170"  />
+<img align="left" height="215" width="auto" src="https://cdna.artstation.com/p/assets/images/images/007/402/320/large/khyzyl-saleem-rex-finallow.jpg?1505899472"  />
 
 <div align="right">
   <a href="https://open.spotify.com/user/31iqajozgc46bb6722qec3kk2syi">
@@ -86,9 +89,13 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AlejandroNovellino/AlejandroNovellino/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlejandroNovellino/AlejandroNovellino/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlejandroNovellino/AlejandroNovellino/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlejandroNovellino/AlejandroNovellino/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ###
 
@@ -102,7 +109,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AlejandroNovellino&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created part f it with GPRM ( https://gprm.itsvg.in ) and with Profile Readme GEnerator (https://profile-readme-generator.com/result)-->
+<!-- Proudly created part f it with GPRM ( https://gprm.itsvg.in ) and with Profile Readme GEnerator (https://profile-readme-generator.com/result) -->
+<!-- Snake SVG made with _generated with [Platane/snk](https://github.com/Platane/snk)_ -->
+
 
 
 <!--
