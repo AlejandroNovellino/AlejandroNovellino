@@ -78,7 +78,7 @@
 
 <div align="center">
   <a href="https://github-contributor-stats.vercel.app/api?username=AlejandroNovellino&limit=5&theme=dark&combine_all_yearly_contributions=true">
-    <img src="https://github-contributor-stats.vercel.app/api?username=AlejandroNovellino&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Random Quote"  />
+    <img src="https://github-contributor-stats.vercel.app/api?username=AlejandroNovellino&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="top contributed repos"  />
   </a>
 </div>
 
@@ -89,7 +89,7 @@
 <!-- Cars -->
 <div align="center">
   <picture>
-    <img src="images/khyzyl-saleem-350z-1054-2.jpg" alt="car2" height="250" />
+    <img src="images/khyzyl-saleem-350z-1054-2.jpg" alt="car1" height="250" />
   </picture>
 
   <picture>
@@ -111,11 +111,11 @@
 <!-- Cars -->
 <div align="center">
   <picture>
-    <img src="images/khyzyl-saleem-myrex-smooth-1088low.jpg" alt="car2" height="250" />
+    <img src="images/khyzyl-saleem-myrex-smooth-1088low.jpg" alt="car3" height="250" />
   </picture>
 
   <picture>
-    <img src="images/khyzyl-saleem-hugo-rx7-finallogo.jpg" alt="car2" height="250" />
+    <img src="images/khyzyl-saleem-hugo-rx7-finallogo.jpg" alt="car4" height="250" />
   </picture>
 </div>
 
@@ -152,15 +152,4 @@
 
 <!--
 **AlejandroNovellino/AlejandroNovellino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
