@@ -15,7 +15,7 @@
 🧁Web Development
 - Frontend ⚛️ Angular (v18 and v19), React, Bootstrap, PrimeNG, HTML, CSS, SASS
 - Backend  🪆 NestJS, Python (Flask, FastAPI)
-- Achitectures 🏯 Micro Frontends, DDD (not my favorite thing to be honest(
+- Achitectures 🏯 Micro Frontends, DDD (not my favorite thing to be honest)
 - Learning 💙 Next.js, Django, Micro Services, SASS in depth
 
 🍧Data Science and Artificial Intelligence
