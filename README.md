@@ -10,7 +10,7 @@
 ###
 # 💫 About Me
 ###
-💜 My name is Alejandro, I am a big car enthusiast, my favorite brands are Toyota, Nissan, Mazda and Ford, and my favorite models are the RX7, Fiesta, Celica, Corolla and the Model Z (please Nissan, let me drive a 400Z) 🚗💜💙 and, of course, talking about software engineering I am passionate about Seb Development User Experience (UX), User Interface (UI), Data Science and Data Visualization with Python and PowerBI.
+💜 My name is Alejandro, I am a big car enthusiast, my favorite brands are Toyota, Nissan, Mazda and Ford, and my favorite models are the RX7, Fiesta, Celica, Corolla and the Model Z (please Nissan, let me drive a 400Z) 🚗💜💙 and, of course, talking about software engineering I am passionate about Software Development, User Experience (UX), User Interface (UI), Data Science, Machine Learning and Data Visualization with Python and PowerBI.
 
 🧁Web Development
 - Frontend ⚛️ Angular (v18 and v19), React, Bootstrap, PrimeNG, HTML, CSS, SASS
@@ -83,7 +83,7 @@
 </div>
 
 ###
-## 💜💙 Fun things I like and look cool
+## 💜💙 Fun things I love
 ###
 
 <!-- Cars -->
